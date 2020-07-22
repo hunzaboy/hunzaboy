@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I am Aslam 👋
+
+On github i create awesome stuff to make my life and others easy. Check out the stuff i have built. 
 
 <!--
 **hunzaboy/hunzaboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
