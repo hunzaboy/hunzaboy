@@ -1,7 +1,7 @@
 ## Hi, I am Aslam 👋
 On github i create awesome stuff to make my life and others easy. I love playing and working with CSS. I like contributing to opensource too. 
 
-<img src="https://github.com/hunzaboy/hunzaboy/blob/master/project-github.jpg?raw=true" alt="opensource projects" />
+<img src="https://github.com/hunzaboy/hunzaboy/blob/master/projects-github.jpg?raw=true" alt="opensource projects" />
 
 ### Elsewhere
 - Creating cool stuff on <a href="https://codepen.io/hunzaboy"> Codepen</a> 🖊️
